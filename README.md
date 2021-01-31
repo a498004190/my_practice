@@ -1,6 +1,6 @@
 # vscode常用插件
 
-    Atom One Light Theme    主题
+    Atom One Light Theme    主题11
     Prettier    代码格式化
     vscode-icons    icon美化
     Live Server 热更新代码 , 无需手动刷新浏览器
